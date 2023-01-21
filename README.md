@@ -1,2 +1,2 @@
 # GUI_Digital_Clock
-## This is about about my random project in Java that i have choose to build in my journey to learn about SWING
+### It is project written in Java. I have build in my journey to learn about SWING library in Java
